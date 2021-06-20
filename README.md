@@ -1,1 +1,1 @@
-# CollectionViewNavigationtest
+# CollectionViewNavigationTest
